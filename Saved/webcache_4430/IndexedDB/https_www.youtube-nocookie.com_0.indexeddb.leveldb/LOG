@@ -1,0 +1,8 @@
+2024/04/17-11:39:29.803 5cd0 Reusing MANIFEST C:/Users/ASE62/Documents/Unreal Projects/Asterixquiz/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/17-11:39:29.806 5cd0 Recovering log #4
+2024/04/17-11:39:29.807 5cd0 Reusing old log C:/Users/ASE62/Documents/Unreal Projects/Asterixquiz/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/04/17-11:40:02.355 5cd0 Level-0 table #8: started
+2024/04/17-11:40:02.356 5cd0 Level-0 table #8: 0 bytes OK
+2024/04/17-11:40:02.359 5cd0 Delete type=0 #4
+2024/04/17-11:40:02.359 5cd0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/04/17-11:40:02.360 5cd0 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
